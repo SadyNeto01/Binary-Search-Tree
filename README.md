@@ -1,2 +1,4 @@
 # Binary Search Tree
  Implemented a Binary Search Tree
+
+This Java program implements a Binary Search Tree (BST) data structure. The program provides a menu-driven console interface for users to perform various operations on the BST, including inserting and deleting elements, searching for elements, counting elements within a specified range, printing the tree structure, and constructing a tree from a file. The BST operations are encapsulated within the BinarySearchTree class, offering a clear and organized structure. The code aims to demonstrate fundamental concepts of binary search trees and provides a user-friendly interface for interactive usage or reading from a file.
